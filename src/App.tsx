@@ -13,7 +13,7 @@ import { Routes, Route } from "react-router-dom";
 import About from "./pages/About";
 
 
-const logos = ["PRINCE", "WEBKAIZEN", "FRONTEND", "DEVELOPER"];
+const logos = ["HEMANT", "GURJAR", "BOTS", "DEVELOPER"];
 
 export default function App() {
   const [showWelcome, setShowWelcome] = useState(true);
@@ -89,7 +89,7 @@ export default function App() {
               />
 
               <span className="text-[10px] md:text-xs tracking-[0.3em] text-white/70 uppercase font-medium">
-                PRINCE · WEBKAIZEN
+                HEMANT · GURJAR
               </span>
             </div>
             <ul className="hidden md:flex items-center gap-10 text-xs tracking-widest text-white/70 uppercase">
@@ -249,7 +249,7 @@ from-white via-white/60 to-white
 animate-[shine_4s_linear_infinite]">
                 Creating
                 <br />
-                Websites
+                Bots
                 <br />
                 That Feel
                 <br />
@@ -268,17 +268,17 @@ animate-[shine_4s_linear_infinite]">
     animate-[shine_4s_linear_infinite]">
                   Turning creative ideas into interactive and{" "} <br />
                   <em className="not-italic text-white">
-                    high-quality web experiences.
+                    high-quality bot experiences.
                   </em>
                 </p>
 
                 <a
-                  href="https://www.webkaizen.in"
+                  href="https://www.akupy.in"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <button className="inline-flex items-center gap-3 border border-white/20 text-white px-6 py-3 text-xs tracking-[0.25em] uppercase font-semibold hover:bg-white hover:text-black transition-all duration-300 rounded-full">
-                    WEBKAIZEN
+                    XENO
                     <ArrowUpRight size={16} />
                   </button>
                 </a>
