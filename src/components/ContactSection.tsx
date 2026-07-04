@@ -26,7 +26,7 @@ export default function ContactSection() {
 
         const text = `Hello, my name is ${form.name}%0A%0A${form.message}`;
 
-        const phone = "918092464955";
+        const phone = "917597162951'
 
         window.open(
             `https://wa.me/${phone}?text=${text}`,
@@ -148,7 +148,7 @@ export default function ContactSection() {
 
                             {/* gmail */}
                             <a
-                                href="mailto:sprince05873@gmail.com"
+                                href="mailto:xeno.hemant@gmail.com"
                                 className="group relative w-12 h-12 sm:w-14 sm:h-14 rounded-2xl
                 border border-white/10
                 bg-white/[0.04]
@@ -178,7 +178,7 @@ export default function ContactSection() {
 
                             {/* whatsapp */}
                             <a
-                                href="https://wa.me/918092464955"
+                                href="https://wa.me/917597162951"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="group relative w-12 h-12 sm:w-14 sm:h-14 rounded-2xl
@@ -534,7 +534,7 @@ export default function ContactSection() {
                     <div className="flex flex-wrap items-center justify-center gap-5">
                         {/* Instagram */}
                         <a
-                            href="https://www.instagram.com/prince_kumar_74_"
+                            href="https://www.instagram.com/xeno.hemant"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Instagram"
@@ -565,7 +565,7 @@ export default function ContactSection() {
 
                         {/* GitHub */}
                         <a
-                            href="https://github.com/princekumar-dev74"
+                            href="https://github.com/xeno-hemant"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="GitHub"
@@ -584,7 +584,7 @@ export default function ContactSection() {
 
                         {/* YouTube */}
                         <a
-                            href="https://www.youtube.com/@WebKaizenDev"
+                            href="https://www.youtube.com/@mrbeast"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="YouTube"
@@ -603,7 +603,7 @@ export default function ContactSection() {
 
                         {/* Telegram */}
                         <a
-                            href="https://t.me/web_kaizen_official"
+                            href="https://t.me/xeenixx"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Telegram"
